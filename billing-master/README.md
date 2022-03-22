@@ -1,3 +1,4 @@
+# There are all the steps to use billing master.
 # BILLING
 
 Fast, reliable and lightweight billing manager. Designed to manage the facturation process and work with the most basics functionality of billing and this project was developed.
